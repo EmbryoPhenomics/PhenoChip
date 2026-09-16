@@ -1,0 +1,10 @@
+{
+  "autodeskProduct": "Fusion360",
+  "type": "addin",
+  "id": "Phenomyx.ChipTreeSymmetric.v7",
+  "author": "ChatGPT",
+  "description": "Draw a symmetric 1-to-24 bifurcating microfluidic tree centreline with vertical terminal well entries.",
+  "version": "7.0.0",
+  "runOnStartup": false,
+  "supportedOS": "windows|mac"
+}
