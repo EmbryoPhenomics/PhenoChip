@@ -1,7 +1,9 @@
 # flow-through-culture-chips
-3D printable and/or laser cuttable flow-through culture cells for aquatic organisms.# FlowHab
+3D printable and/or laser cuttable flow-through culture cells for aquatic organisms.
 
-### Open flow-through culture devices for imaging aquatic organisms
+# FlowHab
+
+### FLOW-HAB: Open flow-through culture devices for imaging aquatic organisms
 
 FlowHab is an open hardware platform for creating **flow-through culture and imaging devices for aquatic organisms**.
 
@@ -15,7 +17,7 @@ The aim is to provide adaptable culture environments that maintain animals under
 ---
 
 <p align="center">
-  [SCHEMATIC: FLOW → CULTURE / IMAGING REGION → FLOW]
+  ![FlowHab schematic](assets/chip-icon.png)
 </p>
 
 ## Concept
