@@ -16,9 +16,8 @@ The aim is to provide adaptable culture environments that maintain animals under
 
 ---
 
-<p align="center">
-  ![FlowHab schematic](assets/chip-icon.png)
-</p>
+![FlowHab schematic](assets/chip-icon.png)
+
 
 ## Concept
 
